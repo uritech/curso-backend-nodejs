@@ -2,7 +2,7 @@
 Ejercicios del Curso de Backend con Node.js: API REST con Express.js de Platzi
 
 
-###Códigos de respuesta HTTP
+##Códigos de respuesta HTTP
 
 - (100 - 199) `Son respuestas informativas`
 - (200 - 299) `Son respuestas exitosas`
