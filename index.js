@@ -17,7 +17,6 @@ app.get('/', (req, res) => {
 
 routerApi(app);
 
-
 //Inciamos la escucha y le indicamos en que puerto.
 app.listen(port, () => {
   console.log('Servidor iniciado en http://localhost:' + port);
